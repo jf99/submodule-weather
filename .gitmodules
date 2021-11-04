@@ -1,0 +1,9 @@
+[submodule "submodules/temperature-prediction"]
+	path = submodules/temperature-prediction
+	url = https://github.com/jf99/temperature-prediction.git
+[submodule "submodules/wind-prediction"]
+	path = submodules/wind-prediction
+	url = https://github.com/jf99/wind-prediction.git
+[submodule "submodules/weather-formula"]
+	path = submodules/weather-formula
+	url = https://github.com/jf99/weather-formula.git
